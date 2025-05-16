@@ -50,10 +50,12 @@ Obstacle detected at 15cm. Adjusting path.
 Line deviation: 0.35
 PD Output: -25
 ```
-
 ---
 
-## Future Enhancements
-- Implement additional sensor modules for more accurate obstacle detection.
-- Integrate logging for sensor data to analyze performance over time.
-- Improve PID tuning for smoother line following.
+## Dependencies
+- Arduino IDE
+- C++ Compiler (e.g., g++)
+- IR Sensors (for line following)
+- Sonar Sensors (for obstacle detection)
+
+---
